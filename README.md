@@ -1,6 +1,6 @@
 # intermine-configurator
 a group of web services used to create an InterMine instance
-
+ 
 Getting Started With InterMine
 -------------------------------
 
